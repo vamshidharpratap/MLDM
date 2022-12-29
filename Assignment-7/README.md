@@ -1,4 +1,4 @@
-# Download the file DecisionTreen ML7pynb and use it in the following task.
+# Download the file DecisionTreen_ML_7.ipynb and use it in the following task.
 
 In the end of the template, a new dataset is provided. Use the generated decision tree d as given in the template (do not change the tree d itself,
 treat it as read-only) to classify the samples of the new dataset. Decide for each sample in the new dataset, whether rain or no-rain is predicted following the split rules from tree d. 
